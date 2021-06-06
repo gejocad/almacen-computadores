@@ -1,0 +1,65 @@
+body{
+    background-color:#adadad;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+h1{
+    color: #9e4040;
+    align-items: center;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.tabla{
+    padding-top: 5px
+
+}
+
+
+.header{
+    background-color: #9e4040;
+    align-items: center;
+    padding-bottom: auto;
+    margin-bottom: auto;
+    flex-direction: column;
+
+
+}
+
+.entrada{
+    
+    align-items: center;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 5%;
+    border-style: solid;
+    border-color:#797979;
+    border-width: 2px;
+}
+.compra{
+    
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+    border-style: solid;
+    border-color:#797979;
+    border-width: 2px;
+}
+.aviso{
+    color: #9e4040;
+    font-style: italic;
+}
+.panel-footer {
+    color: #9e4040;
+    padding: 15px 25px;
+    background-color: #000000;
+    
+  }
+
+.div-footer {
+    text-align: right;
+}
